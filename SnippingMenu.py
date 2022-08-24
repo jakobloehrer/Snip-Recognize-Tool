@@ -1,13 +1,10 @@
-#from re import M
-#from typing import final
-#from cv2 import  resize
-#from PIL import Image
+
 import time
 import sys
 import os
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtGui import QKeySequence
-from PyQt5.QtWidgets import QMainWindow, QApplication, QFileDialog, QShortcut#, QComboBox,  QGridLayout, QPushButton, QTextEdit, QLabel, QStatusBar
+from PyQt5.QtWidgets import QMainWindow, QApplication, QFileDialog, QShortcut
 import cv2
 import SnippingWidget
 import easyocr
