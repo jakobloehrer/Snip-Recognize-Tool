@@ -6,7 +6,6 @@ Installation
     • Install Python
     • Install nessecary dependecies
     • Run SnippingMenu.py
-   .exe file will follow soon.
 
 Information
 
